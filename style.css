@@ -1,0 +1,53 @@
+body {
+  background-image: url(https://cdn.abcotvs.com/dip/images/5679216_110719-cc-ss-christmas-presents-generic-img.jpg?w=1600);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+#websitetitle {
+  padding: 25px 50px 75px;
+  text-align: center;
+  font-family: Brush Script MT;
+  color: red;
+  font-size: 55px;
+}
+#invitetext {
+  text-align: center;
+  color: #4fe352;
+  font-family: Brush Script MT;
+  font-size: 35px;
+}
+#invitetext2 {
+  text-align: center;
+  color: #f56969;
+  font-family: Brush Script MT;
+  font-size: 35px;
+}
+#invitetitle {
+  text-align: center;
+  color: #f56969;
+  font-family: Brush Script MT;
+  font-size: 55px;
+}
+div.container {
+  padding: 25px 50px 75px;
+  align-content: center;
+}
+.btn {
+  background-color: #f56969;
+  color: white;
+  border: 2px solid #ff2424;
+  border-radius: 2px;
+  font-family: Brush Script MT;
+}
+.btn:hover {
+  background-color: #4CAF50;
+  color: white;
+  border: 2px solid #197d1d;
+  font-family: Brush Script MT;
+}
